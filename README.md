@@ -1,5 +1,6 @@
 # HalalNitroGen
 __Best Nitro Generator Ever Replit Mobile Termux 24/7__
+__FREE AND STRAIGHT!__
 
 # How to Install?
 
@@ -13,6 +14,7 @@ First Do:
 
 
 # Dependencies
-**Python3 or Any Python Version**
+**Python3**
+**requirements.txt**
 
 If You Want Support Dms Me! (lost.skull)
