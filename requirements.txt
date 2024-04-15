@@ -1,0 +1,4 @@
+# pip install -r requirements.txt
+
+psutil==5.8.0
+requests==2.26.0
