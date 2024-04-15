@@ -5,7 +5,7 @@ __Best Nitro Generator Ever Replit Mobile Termux 24/7__
 
 First Do:
 
-**cd HalalNitroGen**
+**cd HalalNitroGen-ez**
 
 **pip install -r requirements.txt**
 
