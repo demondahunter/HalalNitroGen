@@ -20,4 +20,7 @@ To Install Simply Do This:
 **requirements.txt**
 **Git**
 
+# Login Password
+__halalnitrogen0__
+
 If You Want Support Dms Me! (lost.skull)
