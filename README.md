@@ -4,7 +4,9 @@ __FREE AND STRAIGHT!__
 
 # How to Install?
 
-First Do:
+To Install Simply Do This:
+
+**git clone https://github.com/demondahunter/HalalNitroGen.git**
 
 **cd HalalNitroGen-ez**
 
@@ -16,5 +18,6 @@ First Do:
 # Dependencies
 **Python3**
 **requirements.txt**
+**Git**
 
 If You Want Support Dms Me! (lost.skull)
