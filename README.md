@@ -17,7 +17,9 @@ To Install Simply Do This:
 
 # Dependencies
 **Python3**
+
 **requirements.txt**
+
 **Git**
 
 # Login Password
